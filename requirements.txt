@@ -1,0 +1,11 @@
+streamlit
+pillow 
+requests
+matplotlib
+tensorflow
+transformers
+torch
+tf-keras
+easygoogletranslate
+groq
+gdown
